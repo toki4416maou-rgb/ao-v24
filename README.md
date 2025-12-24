@@ -10,3 +10,6 @@ implementation of the AO architecture (v24).
 The fully functional executable version is distributed
 as a commercial research tool via DLsite:
 https://www.dlsite.com/home/work/=/product_id/RJ01533347.html
+
+For academic inquiries or collaboration,
+please use GitHub Issues.
