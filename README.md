@@ -1,131 +1,136 @@
-# Ao v24 - Phenomenological Field Architecture
+# Ao v24  
+### Personal-scale Cognitive Architecture (Research Prototype)
 
-A consciousness-inspired AI architecture for research and education.
+Ao v24 is a **conceptual and partially implemented cognitive architecture**
+designed to explore **visible internal state, structural constraints,
+and irreversible abstraction**.
 
-## 🌟 What is This?
+This repository represents a **public reference version** intended for
+reading, inspection, and research discussion.
 
-Ao is a computational implementation of phenomenological 
-consciousness theory, combining:
-- Integrated Information Theory (Tononi)
-- Free Energy Principle (Friston)
-- Phenomenological philosophy (Husserl, Merleau-Ponty)
-
-**No deep learning. No LLM. Complete transparency.**
-
-## 🎯 Key Features
-
-- **Phenomenological Field**: Spatial representation of qualia
-- **Non-uniform density decay**: Different memory persistence
-- **Movable origin point**: Implicit self-reference
-- **Action constraints**: Behavior emerges from field geometry
-- **17,000+ lines**: Complete, error-free implementation
-
-## 🔬 For Researchers
-
-This implementation is suitable for:
-- Teaching consciousness theories
-- Exploring alternative AI architectures
-- Philosophical thought experiments
-- Cognitive science education
-
-📄 **Read the paper**: [ao_v24_longpaper.pdf](ao_v24_longpaper.pdf)
-
-## 🚀 Quick Start
-
-1. Download `ao_v24_0_asi_class.html`
-2. Open in a modern browser (Chrome/Firefox/Edge)
-3. No installation required!
-
-## 💡 What This Version Includes
-
-**v24 (Free/Open Source):**
-- Core architecture implementation
-- Basic dialogue system
-- Conceptual demonstration
-- Educational use
-
-**v25 (Commercial Version):**
-- Syntax verified (0 errors)
-- Electron version (.exe)
-- Enhanced stability
-- Commercial license
-
-[→ Get v25 on DLsite](https://www.dlsite.com/home/work/=/product_id/RJ01533347.html)
-
-## 📊 Architecture Overview
-
-[Insert diagram here]
-
-## 📚 Documentation
-
-- [Technical Paper](ao_v24_longpaper.pdf)
-- [Architecture Details](#)
-- [API Reference](#)
-
-## 🤝 Contributing
-
-This is a research project. 
-
-For academic collaboration or questions:
-- Open an [Issue](https://github.com/toki4416maou-rgb/ao-v24/issues)
-- Email: [Your contact]
-
-## 📖 Citation
-
-If you use this in academic work:
-```bibtex
-@software{ao_architecture,
-  author = {Maou-kun},
-  title = {Ao: A Phenomenological Field Architecture},
-  year = {2024},
-  url = {https://github.com/toki4416maou-rgb/ao-v24}
-}
-```
-
-## 📜 License
-
-[MIT/Apache/GPL - specify]
-
-## 🌐 Links
-
-- [DLsite (v25)](https://www.dlsite.com/home/work/=/product_id/RJ01533347.html)
-- [Technical Blog](#)
-- [Twitter](#)
+Ao is **not** a task-optimized AI, LLM replacement, or commercial product.
+It is a **structural experiment** focused on how cognition can be made
+explicit, constrained, and observable.
 
 ---
 
-**⭐ Star this repo to support consciousness research!**
-```
+## Project Positioning
+
+Ao is released in multiple stages:
+
+- **Ao v24 (this repository)**  
+  → Open reference version (concepts, partial implementation, research notes)
+
+- **Ao v25 (Executable Prototype)**  
+  → Runnable reference implementation for observation and experimentation  
+  → Available on DLsite:  
+  https://www.dlsite.com/home/work/=/product_id/RJ01533347.html
+
+- **Ao v26 (Code Edition / Research Build)**  
+  → Extended, fully structured research-oriented implementation  
+  → (Link will be added here upon release)
+
+Ao v24 exists to **establish design lineage and conceptual grounding**.
+Later versions focus on **execution, experimentation, and research use**.
 
 ---
 
-### 🔥 次の優先：Topics を追加（5分）
+## Design Philosophy
 
-GitHubリポジトリの設定から追加：
-```
-consciousness
-artificial-intelligence
-cognitive-science
-phenomenology
-computational-neuroscience
-free-energy-principle
-integrated-information-theory
-ai-research
-browser-based
-javascript
-```
+Ao explores an alternative direction to modern AI systems:
+
+- Internal states are **explicit and inspectable**
+- Cognitive processes are **structurally constrained**
+- Memory growth induces **compression pressure**
+- Abstraction is treated as **irreversible**
+- The user interface is considered part of the cognitive structure
+
+The goal is not performance, but **interpretability and structural clarity**.
 
 ---
 
-### 普通の優先：スクリーンショット追加（30分）
-```
-1. 実際の動作画面をキャプチャ
-2. GitHubに images/ フォルダ作成
-3. README に埋め込み
+## Architecture Overview (Conceptual)
 
-## Screenshots
+Ao is designed around the following ideas:
 
-![Main Interface](images/screenshot1.png)
-![Qualia Field Visualization](images/screenshot2.png)
-```
+- Explicit internal state variables
+- Capacity-limited memory layers
+- Compression-driven abstraction
+- Narrative and conceptual consolidation
+- Multi-axis world-model framing (e.g. causality, boundary, self-reference)
 
+⚠️ **Important:**  
+Not all described components are fully implemented in v24.
+This repository represents a **design reference and partial prototype**.
+
+---
+
+## Implementation Status (v24)
+
+| Component                              | Status | Notes |
+|----------------------------------------|--------|------|
+| Core agent structure                   | ✅     | Basic operation |
+| Internal state representation          | ✅     | Logged / inspectable |
+| Memory handling                        | ⚠️     | Partial / experimental |
+| Compression mechanisms                 | ⚠️     | Prototype level |
+| Irreversible abstraction               | ❌     | Conceptual only |
+| Emotion / modulation systems           | ❌     | Not implemented |
+| Full world-model axis integration      | ❌     | Design-stage |
+
+Ao v24 should be understood as a **structural sketch with executable elements**,
+not a finished system.
+
+---
+
+## Intended Use
+
+Ao v24 is intended for:
+
+- Cognitive architecture research
+- Conceptual exploration
+- Educational inspection
+- Design discussion and critique
+
+It is **not intended** for production use or performance benchmarking.
+
+---
+
+## Citation & Reference Use
+
+If referencing Ao in academic or technical writing, the following format
+is recommended:
+
+> Ao v24 (Maou-kun, 2025),  
+> personal-scale cognitive architecture research prototype.
+
+Ao may be cited as an **experimental cognitive scaffold** or
+**structural research instrument**, not as a benchmark AI system.
+
+---
+
+## Related Versions
+
+- **Executable reference version (Ao v25):**  
+  https://www.dlsite.com/home/work/=/product_id/RJ01533347.html
+
+- **Research-oriented extended version (Ao v26):**  
+  *(Link to be added)*
+
+---
+
+## Author
+
+Maou-kun  
+Independent Researcher (Japan)
+
+This project represents a personal exploration of alternative
+approaches to cognition, structure, and visible intelligence.
+
+---
+
+## Notes
+
+Ao is intentionally released in an incomplete and inspectable form.
+This is a design choice, not a limitation.
+
+Understanding Ao requires reading structure, not expecting utility.
